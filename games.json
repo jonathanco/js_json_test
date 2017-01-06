@@ -1,0 +1,22 @@
+{
+  "games":[
+	{
+	  "title" : "this is test",
+	  "year"  : "2015",
+	  "genre" : "Horror",
+	  "director" : "test"
+	},
+	{
+	  "title" : "this is test",
+	  "year"  : "2015",
+	  "genre" : "Horror",
+	  "director" : "test"
+	},
+	{
+	  "title" : "this is test",
+	  "year"  : "2015",
+	  "genre" : "Horror",
+	  "director" : "test"
+	}
+  ]
+}
